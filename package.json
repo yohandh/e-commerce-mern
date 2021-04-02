@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-mern",
+  "version": "1.0.0",
+  "description": "E-Commerce using MERN (MongoDB, Express.js, React, Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "E-Commerce",
+    "MERN",
+    "MongoDB",
+    "Express.js",
+    "React",
+    "Mode.js"
+  ],
+  "author": "Yohan Hirimuthugoda <yohandh@gmail.com>",
+  "license": "MIT"
+}
